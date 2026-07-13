@@ -1,2 +1,6 @@
-# Training-Day-3-
-My Day 3 Training notes
+checking users and groups 
+set root password 
+addnew users and groups 
+connect groups to users 
+visudo give some permission to sudo (for security) 
+delete users and groups
